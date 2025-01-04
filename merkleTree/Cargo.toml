@@ -1,0 +1,10 @@
+[package]
+name = "merkleTree"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+sha3 = "0.10"
+hex-literal = "0.4.1"
+test-case = "3.0.0" 
+rand = "0.8"
